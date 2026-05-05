@@ -20,8 +20,7 @@
 I am a software engineer with a track record of architecting scalable enterprise platforms and high-stakes financial transaction systems. Currently, I am deep-diving into **core backend development and advanced system design** to build highly performant, distributed architectures. Beyond traditional engineering, I have a strong focus on Generative AI and its strategic applications in product building. 
 
 * 🏢 **Currently:** Senior Software Engineer at Kfin Technologies, building SEBI-compliant transactional APIs using Node.js, TypeScript, and gRPC.
-* 🌱 **Learning Focus:** Core Backend Architecture, C++, and memory management.
-* 🚀 **Side Quests:** Building MakeX, an AI video advertising platform, and exploring generative AI marketing solutions.
+* 🌱 **Learning Focus:** Core Backend Architecture,Database and memory management.
 * ⚡ **Fun Fact:** I leverage NLP and custom algorithms to automate workflows and optimize everything from applicant tracking to enterprise data processing.
 
 ---
