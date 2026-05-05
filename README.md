@@ -21,8 +21,6 @@ I am a software engineer with a track record of architecting scalable enterprise
 
 * 🏢 **Currently:** Senior Software Engineer at Kfin Technologies, building SEBI-compliant transactional APIs using Node.js, TypeScript, and gRPC.
 * 🌱 **Learning Focus:** Core Backend Architecture,Database and memory management.
-* ⚡ **Fun Fact:** I leverage NLP and custom algorithms to automate workflows and optimize everything from applicant tracking to enterprise data processing.
-
 ---
 
 ### 💼 Experience Highlights
