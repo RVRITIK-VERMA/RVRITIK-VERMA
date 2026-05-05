@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**RVRITIK-VERMA/RVRITIK-VERMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...<h1 align="center">Hi there, I'm Ritik Verma 👋</h1>
+<h1 align="center">Hi there, I'm Ritik Verma 👋</h1>
 <h3 align="center">Senior Software Engineer | Core Backend & System Design</h3>
 
 <p align="center">
@@ -70,7 +59,3 @@ I am a software engineer with a track record of architecting scalable enterprise
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RVRITIK-VERMA&show_icons=true&theme=radical&hide_border=true" alt="Ritik's GitHub Stats" />
 </p>
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
